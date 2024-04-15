@@ -1,5 +1,5 @@
 # school-management-system
-# School Management System
+
 
 This is a School Management System project developed using Java, Servlet, JSP, Hibernate, and MySQL. The project consists of four main controllers: Admin, Student, Teacher, and Principal.
 
